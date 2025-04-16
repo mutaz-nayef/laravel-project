@@ -1,0 +1,24 @@
+[33mcommit 896b64ebd809e732903f6eb7e183043561959e7c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfeature-some-features[m[33m)[m
+Author: Mutaz Nayef <=>
+Date:   Tue Apr 15 19:59:34 2025 +0300
+
+    Some Fearture Added
+
+[33mcommit a4cf168ded66fd9523b88bcb05c91e653e85438c[m
+Author: Mutaz Nayef <=>
+Date:   Tue Apr 15 19:52:39 2025 +0300
+
+    Fix a bug
+
+[33mcommit 8cd844ffb2254c4a922053484e2d27835ec277d9[m
+Author: Mutaz Nayef <=>
+Date:   Tue Apr 15 19:15:42 2025 +0300
+
+    Adding a new about section
+    that is test text to describe the new section we added before
+
+[33mcommit 047379e1d8c694fa7525dcbefdde79f885a4e31c[m
+Author: Mutaz Nayef <=>
+Date:   Tue Apr 15 19:11:08 2025 +0300
+
+    Install laravel
