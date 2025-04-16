@@ -274,10 +274,9 @@
             <div class="h-14.5 hidden lg:block"></div>
         @endif
 
-        <div class="container">
-            Hello Wolrd
+        <div class="contrainer">
+                This is Test Hello world
+                This is just for a test
         </div>
-
     </body>
-
 </html>
